@@ -1,0 +1,4 @@
+# custom repo language
+    *.ino linguist-language=C
+    *.h linguist-language=C
+
