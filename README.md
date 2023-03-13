@@ -95,7 +95,7 @@ DFS
 
 ### 从三个PID传感器的值生成对偏移距离单调的新值<span id="mma"></span>
 
-（完整代码在[data/TCRT 1~3_2.nb]("./data/TCRT 1~3_2.nb")）
+（完整代码在[data/TCRT 1\~3\_2.nb]("./data/TCRT 1~3_2.nb")）
 
 首先观察中间三个TCRT5000在电工胶布内外各个位置的值：
 
